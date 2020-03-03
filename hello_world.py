@@ -2,7 +2,7 @@ print('hallo world')
 
 
 def add(a,b):
-    c=a+b
+    c=a+b+2.0
     return(c)
 
 
